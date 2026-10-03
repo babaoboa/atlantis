@@ -1,5 +1,6 @@
-# Research + List of Stuff
-## Oct 1st, 2026
+# The Journal
+## Research + List of Stuff (also known as a bom!)
+### Oct 1st, 2026
 
 First journal!
 
@@ -10,12 +11,14 @@ I found! I'll prob note some things down about each one...
 First is this one: https://www.apogeerockets.com/Electronics-Payloads/Dual-Deployment/EasyMega
 
 Then this one https://bps.space/pages/avionics
+![](https://fabricate.hackclub-assets.com/0b590ab2ee5ece02329efe7cfcccd13534eb953371c58f8b13f65f8de4577d3a/image.png)
 
 (specifically the SIGNAL R2)
 
 and then AVA! (which i saw while scrolling youtube shorts)
 
 https://www.youtube.com/watch?v=qaWvCy2DRSA
+![](https://fabricate.hackclub-assets.com/530e363baa55b3517aebe362ab4151a17ccbfebf82a8c490843551d7dae1f43c/image.png)
 
 So after looking over these here are the things i've abosrbed
 
@@ -68,6 +71,9 @@ ill also add a magnetomorer, it's cheap and it gives a nice roll / heading ref l
 
 aaaand Bluetooth: DA14531MOD-00F01002
 
+note for next time, make sure to add more pictures!
 
 
+## Importing everything into Kicad + more design and BOM changes
+### Oct 2nd, 2026
 
